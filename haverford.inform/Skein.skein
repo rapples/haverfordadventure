@@ -1,0 +1,1493 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1002">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1002">
+        <command xml:space="preserve">haverford</command>
+        <result xml:space="preserve">
+
+
+Haverford
+An Interactive Fiction by Rich Rutenberg Haverford Station is a room
+Release 1 / Serial number 190121 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Haverford Station
+The train stops and the conductor yells Haverford. You make your way off the train to the platform and watch the train depart into the distance.
+
+You can see a train here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1178"></child>
+            <child nodeId="node-1040"></child>
+            <child nodeId="node-1005"></child>
+        </children>
+    </item>
+    <item nodeId="node-1005">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Station Road
+You are at station road. There is a park to the west. The station is to the east. A sign pointing south says RT 30. The road continue up to the north where you can see a massive stone wall with a wrought iron fence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1006"></child>
+            <child nodeId="node-1165"></child>
+        </children>
+    </item>
+    <item nodeId="node-1165">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+The Sharpe Bird Sanctuary
+You are in the bird park. Attached to a tree is a sign that reads: No Dogs, No Smoking, No Camping.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1166"></child>
+        </children>
+    </item>
+    <item nodeId="node-1166">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1167"></child>
+        </children>
+    </item>
+    <item nodeId="node-1167">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Station Road
+You are at station road. There is a park to the west. The station is to the east. A sign pointing south says RT 30. The road continue up to the north where you can see a massive stone wall with a wrought iron fence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1168"></child>
+        </children>
+    </item>
+    <item nodeId="node-1168">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Route 30
+Route 30 is an old trading route that runs from Philadelphia to Lancaster. There are several closed shopping centers with overpriced coffee and designer clothing. You can make out a sign to the west in the distance that glows BAR.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1169"></child>
+        </children>
+    </item>
+    <item nodeId="node-1169">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  There is a phone booth in the Northeast corner of the room.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1170"></child>
+        </children>
+    </item>
+    <item nodeId="node-1170">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Phone Booth
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1171"></child>
+        </children>
+    </item>
+    <item nodeId="node-1171">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1172"></child>
+        </children>
+    </item>
+    <item nodeId="node-1172">
+        <command xml:space="preserve">look phone</command>
+        <result xml:space="preserve">The base of the phone is grimy and sticky. The quarter slot is surrounded by a layer of grime, and the coin return flap is rusted.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1173"></child>
+        </children>
+    </item>
+    <item nodeId="node-1173">
+        <command xml:space="preserve">look flap</command>
+        <result xml:space="preserve">The coin return flap is empty.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1174"></child>
+        </children>
+    </item>
+    <item nodeId="node-1174">
+        <command xml:space="preserve">look grime</command>
+        <result xml:space="preserve">The quarter slot is surrounded by a layer of grime.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1175"></child>
+        </children>
+    </item>
+    <item nodeId="node-1175">
+        <command xml:space="preserve">shine slot</command>
+        <result xml:space="preserve">You idly buff it with your hand, but nothing happens. The grime seems to have set in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1176"></child>
+        </children>
+    </item>
+    <item nodeId="node-1176">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1177"></child>
+        </children>
+    </item>
+    <item nodeId="node-1177">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  There is a phone booth in the Northeast corner of the room.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1006">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Route 30
+Route 30 is an old trading route that runs from Philadelphia to Lancaster. There are several closed shopping centers with overpriced coffee and designer clothing. You can make out a sign to the west in the distance that glows BAR.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1036"></child>
+            <child nodeId="node-1079"></child>
+            <child nodeId="node-1007"></child>
+        </children>
+    </item>
+    <item nodeId="node-1007">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  To the north there are some boothes, and there is a phone booth in the northeast corner of the room. The bathroom enterence is southwest.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1008"></child>
+            <child nodeId="node-1192"></child>
+            <child nodeId="node-1135"></child>
+        </children>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1161"></child>
+            <child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">se</command>
+        <result xml:space="preserve">
+Phone Booth
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">make call</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">call</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">get phone</command>
+        <result xml:space="preserve">That seems to be a part of the phone booth.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1141"></child>
+        </children>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">get handset</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">take handset</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">take phone</command>
+        <result xml:space="preserve">That seems to be a part of the phone booth.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">rub base</command>
+        <result xml:space="preserve">You rub the phone base.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+        </children>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">rub slot</command>
+        <result xml:space="preserve">You idly buff it with your hand, but nothing happens. The grime seems to have set in.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">look slot</command>
+        <result xml:space="preserve">The quarter slot is surrounded by a layer of grime.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+        </children>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">exit</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1152"></child>
+        </children>
+    </item>
+    <item nodeId="node-1152">
+        <command xml:space="preserve">wheere am i</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1153"></child>
+        </children>
+    </item>
+    <item nodeId="node-1153">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">You are in a phone booth, trying to look inconspicuous. You are holding the handset, the cord dangling between you and the base on the wall.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1154"></child>
+        </children>
+    </item>
+    <item nodeId="node-1154">
+        <command xml:space="preserve">leave</command>
+        <result xml:space="preserve">But you aren't in anything at the moment.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1155"></child>
+        </children>
+    </item>
+    <item nodeId="node-1155">
+        <command xml:space="preserve">hang up</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1156"></child>
+        </children>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">call</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1161">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Phone Booth
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1162"></child>
+        </children>
+    </item>
+    <item nodeId="node-1162">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+        </children>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1192">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1193"></child>
+        </children>
+    </item>
+    <item nodeId="node-1193">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1194"></child>
+        </children>
+    </item>
+    <item nodeId="node-1194">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1195"></child>
+        </children>
+    </item>
+    <item nodeId="node-1195">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1196"></child>
+        </children>
+    </item>
+    <item nodeId="node-1196">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  To the north there are some boothes, and there is a phone booth in the northeast corner of the room. The bathroom enterence is southwest.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1197"></child>
+        </children>
+    </item>
+    <item nodeId="node-1197">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1198"></child>
+        </children>
+    </item>
+    <item nodeId="node-1198">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1199"></child>
+        </children>
+    </item>
+    <item nodeId="node-1199">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1200"></child>
+        </children>
+    </item>
+    <item nodeId="node-1200">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1201"></child>
+        </children>
+    </item>
+    <item nodeId="node-1201">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  To the north there are some boothes, and there is a phone booth in the northeast corner of the room. The bathroom enterence is southwest.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1202"></child>
+        </children>
+    </item>
+    <item nodeId="node-1202">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1203"></child>
+        </children>
+    </item>
+    <item nodeId="node-1203">
+        <command xml:space="preserve">ne</command>
+        <result xml:space="preserve">
+Phone Booth
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1204"></child>
+        </children>
+    </item>
+    <item nodeId="node-1204">
+        <command xml:space="preserve">sw</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.  To the north there are some boothes, and there is a phone booth in the northeast corner of the room. The bathroom enterence is southwest.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Oscar and Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1205"></child>
+        </children>
+    </item>
+    <item nodeId="node-1205">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1008">
+        <command xml:space="preserve">get oscar</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1009"></child>
+        </children>
+    </item>
+    <item nodeId="node-1009">
+        <command xml:space="preserve">go grille</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1010"></child>
+        </children>
+    </item>
+    <item nodeId="node-1010">
+        <command xml:space="preserve">go n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1011"></child>
+        </children>
+    </item>
+    <item nodeId="node-1011">
+        <command xml:space="preserve">go w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1012"></child>
+        </children>
+    </item>
+    <item nodeId="node-1012">
+        <command xml:space="preserve">go s</command>
+        <result xml:space="preserve">
+Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1013"></child>
+        </children>
+    </item>
+    <item nodeId="node-1013">
+        <command xml:space="preserve">get bacon</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1014"></child>
+        </children>
+    </item>
+    <item nodeId="node-1014">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1015"></child>
+        </children>
+    </item>
+    <item nodeId="node-1015">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+You can also see Tequila here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1016"></child>
+        </children>
+    </item>
+    <item nodeId="node-1016">
+        <command xml:space="preserve">get tequila</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1017"></child>
+        </children>
+    </item>
+    <item nodeId="node-1017">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1018"></child>
+        </children>
+    </item>
+    <item nodeId="node-1018">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1019"></child>
+        </children>
+    </item>
+    <item nodeId="node-1019">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Grille
+You are at the north end of the kitchen by the grill.
+
+You can see Bacon here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1020"></child>
+        </children>
+    </item>
+    <item nodeId="node-1020">
+        <command xml:space="preserve">get bacon</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1021"></child>
+        </children>
+    </item>
+    <item nodeId="node-1021">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Kitchen
+You quietly get up and sprint into the Kitchen. You slip as you try to stop yourself but luckily regain your balance. As you get up something catches your eye under the grill on the north end the Kitchen.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1022"></child>
+        </children>
+    </item>
+    <item nodeId="node-1022">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Roache Bar
+You wander up the street hypnotized by the sign and find yourself inside an old bar. The bartender comes over and says, should I make it a double Rick James? You play along and say sure, don't I always. As the bartender pours you a double shot of tequila you look up and notice an Oscar trophy on a shelf behind the bar.
+
+I have my eye on you Rick James. The bartender says as he makes his way into the basement cellar.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1023"></child>
+        </children>
+    </item>
+    <item nodeId="node-1023">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Route 30
+Route 30 is an old trading route that runs from Philadelphia to Lancaster. There are several closed shopping centers with overpriced coffee and designer clothing. You can make out a sign to the west in the distance that glows BAR.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1024"></child>
+        </children>
+    </item>
+    <item nodeId="node-1024">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see Sign here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1025"></child>
+        </children>
+    </item>
+    <item nodeId="node-1025">
+        <command xml:space="preserve">read sign</command>
+        <result xml:space="preserve">Wooden sign reading No Ice Skating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1026"></child>
+        </children>
+    </item>
+    <item nodeId="node-1026">
+        <command xml:space="preserve">feed ducks</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1027"></child>
+        </children>
+    </item>
+    <item nodeId="node-1027">
+        <command xml:space="preserve">eat bacon</command>
+        <result xml:space="preserve">That's plainly inedible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1028"></child>
+        </children>
+    </item>
+    <item nodeId="node-1028">
+        <command xml:space="preserve">look bacon</command>
+        <result xml:space="preserve">Crispy, Crunchy, Wonderful Bacon!
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1029"></child>
+        </children>
+    </item>
+    <item nodeId="node-1029">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see Sign here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1030"></child>
+        </children>
+    </item>
+    <item nodeId="node-1030">
+        <command xml:space="preserve">get sign</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1031"></child>
+        </children>
+    </item>
+    <item nodeId="node-1031">
+        <command xml:space="preserve">look sign</command>
+        <result xml:space="preserve">Wooden sign reading No Ice Skating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1032"></child>
+        </children>
+    </item>
+    <item nodeId="node-1032">
+        <command xml:space="preserve">inventory</command>
+        <result xml:space="preserve">You are carrying:
+  Sign
+  Bacon
+  Tequila
+  Oscar
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1033"></child>
+        </children>
+    </item>
+    <item nodeId="node-1033">
+        <command xml:space="preserve">feed duck</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Guard Station
+The banner on the wall says, Welcome to Haverford College. The little house is where the campus safety oficer sits when there are events.  Nobody is here now. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1081"></child>
+        </children>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign and ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+As you walk down this dusty path you pass several cedar homes that must have been constructed in the 1960s.  Off in the distance across a small creek at the bottom of the steep hill you can see the arched roof of the Skating Club.  Dead End.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign and ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+College Circle
+As you look around the cirlce you count 6 gray stone buildings.  They must have been here at least a hundred years.  One has a beautiful wrap around porch.  That must be the President's house.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign and ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1089"></child>
+        </children>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Guard Station
+The banner on the wall says, Welcome to Haverford College. The little house is where the campus safety oficer sits when there are events.  Nobody is here now. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1036">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Guard Station
+The banner on the wall says, Welcome to Haverford College. The little house is where the campus safety oficer sits when there are events.  Nobody is here now. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1056"></child>
+            <child nodeId="node-1037"></child>
+            <child nodeId="node-1062"></child>
+        </children>
+    </item>
+    <item nodeId="node-1062">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1115"></child>
+            <child nodeId="node-1128"></child>
+            <child nodeId="node-1067"></child>
+        </children>
+    </item>
+    <item nodeId="node-1067">
+        <command xml:space="preserve">look ducks</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1068"></child>
+        </children>
+    </item>
+    <item nodeId="node-1068">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+As you walk down this dusty path you pass several cedar homes that must have been constructed in the 1960s.  Off in the distance across a small creek at the bottom of the steep hill you can see the arched roof of the Skating Club.  Dead End.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1069"></child>
+        </children>
+    </item>
+    <item nodeId="node-1069">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign and ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1070"></child>
+        </children>
+    </item>
+    <item nodeId="node-1070">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1071"></child>
+        </children>
+    </item>
+    <item nodeId="node-1071">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Dead End
+As you walk down this dusty path you pass several cedar homes that must have been constructed in the 1960s.  Off in the distance across a small creek at the bottom of the steep hill you can see the arched roof of the Skating Club.  Dead End.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1072"></child>
+        </children>
+    </item>
+    <item nodeId="node-1072">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1073"></child>
+        </children>
+    </item>
+    <item nodeId="node-1073">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign and ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1074"></child>
+        </children>
+    </item>
+    <item nodeId="node-1074">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1075"></child>
+        </children>
+    </item>
+    <item nodeId="node-1075">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1076"></child>
+        </children>
+    </item>
+    <item nodeId="node-1076">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">look duck</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">look ducks</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">loock duck family</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+        </children>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">look duck family</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">get duck</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">look duck</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">get duck</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see sign here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">get sign</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+        </children>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">look duck pond</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">look ducks</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1037">
+        <command xml:space="preserve">get Ducks</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1038"></child>
+        </children>
+    </item>
+    <item nodeId="node-1038">
+        <command xml:space="preserve">look Ducks</command>
+        <result xml:space="preserve">There are Mr. and Mrs. Mallard, and their children Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack .
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1039"></child>
+        </children>
+    </item>
+    <item nodeId="node-1039">
+        <command xml:space="preserve">eat ducks</command>
+        <result xml:space="preserve">That's plainly inedible.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1056">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1057"></child>
+        </children>
+    </item>
+    <item nodeId="node-1057">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see Sign and Ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1058"></child>
+        </children>
+    </item>
+    <item nodeId="node-1058">
+        <command xml:space="preserve">look sign</command>
+        <result xml:space="preserve">Wooden sign reading No Ice Skating.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1040">
+        <command xml:space="preserve">q</command>
+        <result xml:space="preserve">Are you sure you want to quit? </result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1041"></child>
+        </children>
+    </item>
+    <item nodeId="node-1041">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1042"></child>
+        </children>
+    </item>
+    <item nodeId="node-1042">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Station Road
+You are at station road. There is a park to the west. The station is to the east. A sign pointing south says RT 30. The road continue up to the north where you can see a massive stone wall with a wrought iron fence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1043"></child>
+        </children>
+    </item>
+    <item nodeId="node-1043">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Route 30
+Route 30 is an old trading route that runs from Philadelphia to Lancaster. There are several closed shopping centers with overpriced coffee and designer clothing. You can make out a sign to the west in the distance that glows BAR.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1044"></child>
+        </children>
+    </item>
+    <item nodeId="node-1044">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1045"></child>
+        </children>
+    </item>
+    <item nodeId="node-1045">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">
+Guard Station
+The banner on the wall says, Welcome to Haverford College. The little house is where the campus safety oficer sits when there are events.  Nobody is here now. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1046"></child>
+        </children>
+    </item>
+    <item nodeId="node-1046">
+        <command xml:space="preserve"></command>
+        <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1047"></child>
+        </children>
+    </item>
+    <item nodeId="node-1047">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1048"></child>
+        </children>
+    </item>
+    <item nodeId="node-1048">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see Sign and Ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1049"></child>
+        </children>
+    </item>
+    <item nodeId="node-1049">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Duck Pond
+This is a wonderful place with a pond filled with turtles and fish. There are families of ducks swimming in the pond. 
+
+You can see Sign and Ducks here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1050"></child>
+        </children>
+    </item>
+    <item nodeId="node-1050">
+        <command xml:space="preserve">get sign</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1051"></child>
+        </children>
+    </item>
+    <item nodeId="node-1051">
+        <command xml:space="preserve">get ducks</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1052"></child>
+        </children>
+    </item>
+    <item nodeId="node-1052">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1178">
+        <command xml:space="preserve">look train</command>
+        <result xml:space="preserve">The train is going going going. gone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1179"></child>
+        </children>
+    </item>
+    <item nodeId="node-1179">
+        <command xml:space="preserve">look train</command>
+        <result xml:space="preserve">The train is going going going. gone.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1180"></child>
+        </children>
+    </item>
+    <item nodeId="node-1180">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">
+Station Road
+You are at station road. There is a park to the west. The station is to the east. A sign pointing south says RT 30. The road continue up to the north where you can see a massive stone wall with a wrought iron fence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1181"></child>
+        </children>
+    </item>
+    <item nodeId="node-1181">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Cricket Club
+Engraved in the entrance of the wall to the grounds reads M C C. A burly man guards the entrance to the property.
+
+You can see a guard here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1182"></child>
+        </children>
+    </item>
+    <item nodeId="node-1182">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1183"></child>
+        </children>
+    </item>
+    <item nodeId="node-1183">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1184"></child>
+        </children>
+    </item>
+    <item nodeId="node-1184">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1185"></child>
+        </children>
+    </item>
+    <item nodeId="node-1185">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Station Road
+You are at station road. There is a park to the west. The station is to the east. A sign pointing south says RT 30. The road continue up to the north where you can see a massive stone wall with a wrought iron fence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1186"></child>
+        </children>
+    </item>
+    <item nodeId="node-1186">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Route 30
+Route 30 is an old trading route that runs from Philadelphia to Lancaster. There are several closed shopping centers with overpriced coffee and designer clothing. You can make out a sign to the west in the distance that glows BAR.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1187"></child>
+        </children>
+    </item>
+    <item nodeId="node-1187">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1188"></child>
+        </children>
+    </item>
+    <item nodeId="node-1188">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
